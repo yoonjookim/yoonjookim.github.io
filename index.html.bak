@@ -91,7 +91,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
           </div>
           <div class="row">
             <div class="col"> Here is my latest CV: <a href="files/Yoonjoo_Kim.CV.pdf"
-                target="_blank">file</a>.</div>
+                target="_blank">pdf</a>.</div>
           </div>
         </div>
       </section>
@@ -142,9 +142,9 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li>Institut de Mathématiques de Jussieu, Séminaire de géométrie
                   algébrique, October 2021.<br>
                 </li>
-                <li>Derived seminar, October 2021.</li>
                 <li>University of Michigan, Algebraic geometry seminar, November
                   2021.</li>
+                <li>Derived seminar, December 2021.</li>
               </ul>
             </div>
           </div>
