@@ -9,7 +9,8 @@
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Additional CSS Files -->
-    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+
       rel="stylesheet">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/tooplate-style.css">
@@ -37,7 +38,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
               </ul>
             </nav>
             <div class="copyright-text">
-              <p>Design taken from <a href="https://www.tooplate.com/view/2116-blugoon"
+              <p>Design taken from <a href="https://www.tooplate.com/view/2116-blugoon"
+
                   target="_blank">Tooplate<br>
                 </a></p>
             </div>
@@ -78,7 +80,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 compact hyper-Kähler manifolds and their Lagrangian fibrations.</p>
               <p> Sometimes I write my name as Yoonjoo Kim without a dash.</p>
               <p>I completed my PhD degree at Stony Brook University under the
-                guidance of Professor <a href="http://www.math.stonybrook.edu/%7Erlaza/"
+                guidance of Professor <a href="http://www.math.stonybrook.edu/%7Erlaza/"
+
                   target="_blank">Radu Laza</a>.</p>
               <p>Email: yoon-joo.kim [AT] stonybrook [DOT] edu. </p>
             </div>
@@ -91,7 +94,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
             <h2> CV</h2>
           </div>
           <div class="row">
-            <div class="col"> Here is my latest CV: <a href="files/Yoonjoo_Kim.CV.pdf"
+            <div class="col"> Here is my latest CV: <a href="files/Yoonjoo_Kim.CV.pdf"
+
                 target="_blank">pdf</a>.</div>
           </div>
         </div>
@@ -164,11 +168,12 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
           <div class="row">
             <div class="col">
               <ul>
-                <li>Here is my dissertation: <a href="files/Yoonjoo_Kim.Dissertation.pdf"
+                <li>Here is my dissertation: <a href="files/Yoonjoo_Kim.Dissertation.pdf"
+
                     target="_blank">pdf</a>.<br>
                   It summarizes some of my work on hyper-Kähler manifolds. It
-                  also provides a short survey on basic theory of Lagrangian
-                  fibered hyper-Kähler manifolds.</li>
+                  also provides a very brief survey on basic theory of
+                  Lagrangian fibered hyper-Kähler manifolds.</li>
               </ul>
               <p><br>
               </p>
@@ -239,6 +244,6 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
 
       $(window).scroll(function() {
         checkSection();
-      });</script>h
+      });</script>
   </body>
 </html>
