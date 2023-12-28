@@ -19,8 +19,7 @@
   </head>
   <!--
 Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
-    <div id="page-wraper">
-      <!-- Sidebar Menu -->
+    <div id="page-wraper"> <!-- Sidebar Menu -->
       <div class="responsive-nav"> <i class="fa fa-bars" id="menu-toggle"></i>
         <div id="menu" class="menu"> <i class="fa fa-times" id="menu-close"></i>
           <div class="container">
@@ -197,7 +196,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
     </div>
     <!-- Scripts -->
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="vendor/jquery/jquery-3.7.1.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/isotope.min.js"></script>
     <script src="assets/js/owl-carousel.js"></script>
