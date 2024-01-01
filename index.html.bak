@@ -9,8 +9,7 @@
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Additional CSS Files -->
-    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
-
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
       rel="stylesheet">
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/tooplate-style.css">
@@ -19,7 +18,8 @@
   </head>
   <!--
 Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
-    <div id="page-wraper"> <!-- Sidebar Menu -->
+    <div id="page-wraper">
+      <!-- Sidebar Menu -->
       <div class="responsive-nav"> <i class="fa fa-bars" id="menu-toggle"></i>
         <div id="menu" class="menu"> <i class="fa fa-times" id="menu-close"></i>
           <div class="container">
@@ -37,8 +37,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
               </ul>
             </nav>
             <div class="copyright-text">
-              <p>Design taken from <a href="https://www.tooplate.com/view/2116-blugoon"
-
+              <p>Design taken from <a href="https://www.tooplate.com/view/2116-blugoon"
                   target="_blank">Tooplate<br>
                 </a></p>
             </div>
@@ -83,8 +82,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 Bonn in <a href="http://www.math.uni-bonn.de/%7Ehuybrech/" target="_blank">Daniel
                   Huybrechts</a>' group (ERC HyperK team).</p>
               <p>Before that, I was a PhD student at Stony Brook University. My
-                advisor was <a href="http://www.math.stonybrook.edu/%7Erlaza/"
-
+                advisor was <a href="http://www.math.stonybrook.edu/%7Erlaza/"
                   target="_blank">Radu Laza</a>.</p>
               <p>Email: yk3029 [AT] columbia [DOT] edu.</p>
             </div>
@@ -97,8 +95,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
             <h2> CV</h2>
           </div>
           <div class="row">
-            <div class="col"> Here is my latest CV: <a href="files/Yoonjoo_Kim.CV.pdf"
-
+            <div class="col"> Here is my latest CV: <a href="files/Yoonjoo_Kim.CV.pdf"
                 target="_blank">pdf</a>.</div>
           </div>
         </div>
@@ -113,17 +110,18 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
               <ul>
                 <li><a href="https://arxiv.org/abs/1909.06924" target="_blank">A
                     conjectural bound on the second Betti number for
-                    hyper-Kähler manifolds</a> (with R. Laza), Bull. Soc. Math.
+                    hyper-Kähler manifolds</a> (w/ R. Laza), Bull. Soc. Math.
                   France (2020). </li>
                 <li><a href="https://arxiv.org/abs/1906.03432" target="_blank">The
-                    LLV decomposition of hyper-Kähler cohomology</a> (with M.
-                  Green, R. Laza &amp; C. Robles), Math. Ann. (2022).</li>
+                    LLV decomposition of hyper-Kähler cohomology</a> (w/ M.
+                  Green,&nbsp; R. Laza,&nbsp; and&nbsp; C. Robles), Math. Ann.
+                  (2022).</li>
                 <li><a href="https://arxiv.org/abs/2109.03987" target="_blank">The
                     dual Lagrangian fibration of known hyper-Kähler manifolds</a>,
                   submitted.</li>
                 <li><a href="https://arxiv.org/abs/2312.15147" target="_blank">Isotrivial
-                    Lagrangian fibrations of compact hyper-Kähler manifolds</a>,
-                  preprint.</li>
+                    Lagrangian fibrations of compact hyper-Kähler manifolds</a>
+                  (w/ R. Laza&nbsp; and&nbsp; O. Martin), preprint.</li>
               </ul>
             </div>
           </div>
@@ -174,8 +172,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
           <div class="row">
             <div class="col">
               <ul>
-                <li>Here is my dissertation: <a href="files/Yoonjoo_Kim.Dissertation.pdf"
-
+                <li>Here is my dissertation: <a href="files/Yoonjoo_Kim.Dissertation.pdf"
                     target="_blank">pdf</a>.<br>
                   It summarizes some of my work on hyper-Kähler manifolds. It
                   also provides a very brief survey on basic theory of
