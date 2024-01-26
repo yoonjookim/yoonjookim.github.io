@@ -33,7 +33,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li><a href="#section-cv">CV</a></li>
                 <li><a href="#section-papers">Papers</a></li>
                 <li><a href="#section-talks">Talks</a></li>
-                <li><a href="#section-teaching">Others</a></li>
+                <li><a href="#section-seminars">Seminars</a></li>
+                <li><a href="#section-others">Others</a></li>
               </ul>
             </nav>
             <div class="copyright-text">
@@ -110,8 +111,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
               <ul>
                 <li><a href="https://arxiv.org/abs/1909.06924" target="_blank">A
                     conjectural bound on the second Betti number for
-                    hyper-Kähler manifolds</a> (w/ R. Laza), Bull. Soc. Math.
-                  France (2020). </li>
+                    hyper-Kähler manifolds</a> (w/&nbsp; R. Laza), Bull. Soc.
+                  Math. France (2020). </li>
                 <li><a href="https://arxiv.org/abs/1906.03432" target="_blank">The
                     LLV decomposition of hyper-Kähler cohomology</a> (w/&nbsp;
                   M. Green,&nbsp; R. Laza,&nbsp; and&nbsp; C. Robles), Math.
@@ -140,7 +141,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li>University of Connecticut, February 2021.</li>
                 <li>KIAS (Seoul, South Korea), February 2021.</li>
                 <li>Michigan State University, September 2021.</li>
-                <li>IBS (Daejeon, South Korea), September 2021.</li>
+                <li>IBS CCG (Daejeon, South Korea), September 2021.</li>
                 <li>UC Santa Barbara, October 2021.</li>
                 <li>University of Massachusetts Amherst, October 2021.</li>
                 <li>Institut de Mathématiques de Jussieu, October 2021.<br>
@@ -152,19 +153,38 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li>Seoul National University, August 2022.</li>
                 <li>Universität Bonn, October 2022.</li>
                 <li>IST Austria, November 2022.</li>
-                <li>IBS (Daejeon, South Korea), February 2023.</li>
+                <li>IBS CCG (Daejeon, South Korea), February 2023.</li>
                 <li>KIAS (Seoul, South Korea), February 2023.</li>
                 <li>KdV University of Amsterdam, March 2023.</li>
                 <li>University of Lille, March 2023.</li>
                 <li>Western Hemisphere Virtual Symplectic Seminar, April 2023.</li>
                 <li>Columbia University, September 2023.</li>
                 <li>Stony Brook University, September 2023.</li>
+                <li>IBS CCG (Daejeon, South Korea), February 2024.</li>
+                <li>Princeton University, March 2024.</li>
+                <li>Johns Hopkins University, March 2024.</li>
               </ul>
             </div>
           </div>
         </div>
       </section>
-      <section class="section" data-section="section-teaching">
+      <section class="section" data-section="section-seminars">
+        <div class="container">
+          <div class="section-heading">
+            <h2> Seminars</h2>
+          </div>
+          <div class="row">
+            <div class="col">
+              <ul>
+                <li>Spring 2024 (Columbia). Algebraic geometry learning seminar:
+                  <a href="seminars/spring_2024.html" target="_top">Decomposition
+                    of the diagonal</a>.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section" data-section="section-others">
         <div class="container">
           <div class="section-heading">
             <h2> Others</h2>
