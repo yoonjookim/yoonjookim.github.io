@@ -5,12 +5,10 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Columbia Algebraic Geometry Seminar</title>
   </head>
-  <body data-new-gr-c-s-check-loaded="14.1079.0" data-gr-ext-installed="" style="              color: black; background-color: #fcd0b2;"
-
+  <body data-new-gr-c-s-check-loaded="14.1079.0" data-gr-ext-installed="" style="                 color: black; background-color: #fcd0b2;"
     vlink="#cc0000">
     <!--_________________________________________________________________-->
-    <table noshade="noshade" width="100%" cellspacing="1" cellpadding="4" border="12"
-
+    <table noshade="noshade" width="100%" cellspacing="1" cellpadding="4" border="12"
       bgcolor="#99CAFF">
       <tbody>
         <tr>
@@ -25,8 +23,7 @@
     </table>
     <hr>
     <p> The Columbia Algebraic Geometry Seminar takes place on Fridays at 3:30
-      pm in 417 Mathematics Hall on the <a href="http://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf"
-
+      pm in 417 Mathematics Hall on the <a href="http://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf"
         target="_blank">Columbia campus</a>.</p>
     <p> The seminar is organized by Giulia Saccà, James Hotchkiss, and Yoon-Joo
       Kim.</p>
@@ -49,7 +46,8 @@
           </td>
           <td>NYU<br>
           </td>
-          <td><span style="color: #0000ee;"></span> <br>
+          <td style="height: 19.3333px;"><a href="fall_2024_abstracts/Sep19.html">On
+              real quadric fibrations</a><br>
           </td>
         </tr>
         <tr>
@@ -108,7 +106,7 @@
         </tr>
         <tr>
           <td>November 1</td>
-          <td><br>
+          <td>Tommaso Botta<br>
           </td>
           <td>Columbia University </td>
           <td><br>
@@ -213,13 +211,10 @@
         '23</a>, <a href="http://sites.google.com/view/nathanchen/seminars/columbia-ag-seminar-fall-2023">F
         '23</a>, <a href="https://sites.google.com/view/nathanchen/seminars/columbia-ag-seminar?authuser=0">S
         '24</a></p>
-    <p> This page is maintained by <a href="https://sites.google.com/view/jameshotchkiss"
-
-        target="_blank">James Hotchkiss</a> and <a href="https://yoonjookim.github.io/"
-
+    <p> This page is maintained by <a href="https://sites.google.com/view/jameshotchkiss"
+        target="_blank">James Hotchkiss</a> and <a href="https://yoonjookim.github.io/"
         target="_blank">Yoon-Joo Kim</a>.</p>
-    <hr> <grammarly-desktop-integration data-grammarly-shadow-root="true"><template
-
+    <hr> <grammarly-desktop-integration data-grammarly-shadow-root="true"><template
         shadowrootmode="open">
         <style>
       div.grammarly-desktop-integration {
@@ -242,8 +237,7 @@
         content: attr(data-content);
       }
     </style>
-        <div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration"
-
+        <div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration"
           data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div>
       </template></grammarly-desktop-integration>
   </body>
