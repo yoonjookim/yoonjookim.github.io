@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Yoon-Joo Kim</title>
+    <meta name="description" content="">
+    <meta name="author" content="Yoon-Joo Kim">
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Additional CSS Files -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+      rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/fontawesome.css">
+    <link rel="stylesheet" href="../assets/css/tooplate-style.css">
+    <link rel="stylesheet" href="../assets/css/owl.css">
+    <link rel="stylesheet" href="../assets/css/lightbox.css">
+  </head>
+  <!--
+Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
+    <div id="page-wraper">
+      <section class="seminar">
+        <div class="container">
+          <div class="section-heading">
+            <h2 style="text-align: center;">Spring 2025 Algebraic geometry
+              learning seminar:<br>
+              Topics TBA</h2>
+          </div>
+          <div class="row">
+            <div class="col">
+              <p><strong>Time:</strong> Friday 1:45 – 3:00pm.<br>
+                <strong>Place:</strong> 507 Math Building.<br>
+                <strong>Book:</strong> TBA.<br>
+                <strong>Organizers:</strong> Yoonjoo Kim.</p>
+              <p><strong>Scheduled talks:</strong></p>
+              <table style="width: 100%" border="2">
+                <tbody>
+                  <tr>
+                    <td style="width: 8%; text-align: center;"><strong>Date</strong></td>
+                    <td style="width: 17%; text-align: center;"><strong>Speaker</strong></td>
+                    <td style="width: 13%; text-align: center;"><strong>Section</strong></td>
+                    <td style="text-align: center;"><strong>Topic</strong></td>
+                    <td style="width: 7%; text-align: center;"><strong>Note</strong></td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Jan 24</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Jan 31<br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Feb 7</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Feb 14</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Feb 21</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Feb 28</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Mar 7</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Mar 14</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Mar 21</td>
+                    <td style="text-align: center;">(Spring recess)</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Mar 28</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Apr 4<br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Apr 11</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Apr 18</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">Apr 25</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td><br>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <p><br>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
