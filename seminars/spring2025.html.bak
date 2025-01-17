@@ -9,7 +9,8 @@
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Additional CSS Files -->
-    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+
       rel="stylesheet">
     <link rel="stylesheet" href="../assets/css/fontawesome.css">
     <link rel="stylesheet" href="../assets/css/tooplate-style.css">
@@ -37,14 +38,17 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     P=W conjecture for GLn</a>.</li>
                 <li><a href="https://arxiv.org/abs/2309.15061" target="_blank">P=W
                     phenomena in algebraic and enumerative geometry.</a></li>
-                <li><span style="color: #99ffff;"><a href="https://www.bourbaki.fr/TEXTES/Exp1213-Hoskins.pdf"
-                      target="_blank">P=W phenomena in algebraic and enumerative
-                      geometry</a>.</span></li>
-                <li><span style=" color: #99ffff;">TO BE ADDED<br>
+                <li><a href="https://www.bourbaki.fr/TEXTES/Exp1213-Hoskins.pdf"
+
+                      target="_blank">Two proofs of the P=W conjecture</a>.</li>
+                <li><span style=" color: #99ffff;"><span style="color: white;">etc</span><br>
                   </span></li>
               </ul>
-              <strong>Organizers:</strong> Tommaso Botta, Hanlin Cai, Andrés
-              Ibáñez Núñez, and Yoonjoo Kim.
+              <strong>Organizers:</strong> Tommaso Botta, <a href="https://www.math.columbia.edu/%7Ehanlin/"
+
+                target="_blank">Hanlin Cai</a>, <a href="https://www.math.columbia.edu/%7Eibaneznunez/"
+
+                target="_blank">Andrés Ibáñez Núñez</a>, and Yoonjoo Kim.
               <p></p>
               <p><strong>Scheduled talks:</strong></p>
               <table style="width: 100%" border="2">
