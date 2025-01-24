@@ -37,6 +37,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     P=W conjecture for GLn</a>.</li>
                 <li><a href="https://arxiv.org/abs/2209.05429" target="_blank">P=W
                     via H2</a>.</li>
+                <li><a href="https://arxiv.org/abs/2308.13160" target="_blank">Perverse
+                    filtrations and Fourier transforms</a>.</li>
                 <li><a href="https://arxiv.org/abs/2309.15061" target="_blank">P=W
                     phenomena in algebraic and enumerative geometry</a>.</li>
                 <li><a href="https://www.bourbaki.fr/TEXTES/Exp1213-Hoskins.pdf"
@@ -71,7 +73,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
+                    <td>Mixed Hodge structures<br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
@@ -80,16 +82,18 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Feb 7</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
+                    <td>Character varieties and the curious hard Lefschetz
+                      theorem<br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
                   </tr>
                   <tr>
                     <td style="text-align: center;">Feb 14</td>
-                    <td style="text-align: center;"><br>
+                    <td style="text-align: center;">(Feb 13?)<br>
                     </td>
-                    <td><br>
+                    <td>Perverse sheaves I (definition of t-structures and 6
+                      functor formalisms)<br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
@@ -98,8 +102,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Feb 21</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
-                    </td>
+                    <td>Perverse sheaves II the (decomposition theorem, relative
+                      hard Lefschetz, etc.) </td>
                     <td style="text-align: center;"><br>
                     </td>
                   </tr>
@@ -107,7 +111,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Feb 28</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td style="text-align: center;"><br>
+                    <td>Higgs bundles I<br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
@@ -116,7 +120,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Mar 7</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
+                    <td>?<br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
@@ -125,15 +129,14 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Mar 14</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td style="text-align: center;"><br>
-                    </td>
+                    <td>Higgs bundles II </td>
                     <td style="text-align: center;"><br>
                     </td>
                   </tr>
                   <tr>
                     <td style="text-align: center;">Mar 21</td>
                     <td style="text-align: center;">(Spring recess)</td>
-                    <td style="text-align: center;"><br>
+                    <td><br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
@@ -142,7 +145,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Mar 28</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
+                    <td>Ngo's support theorem<br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
@@ -152,7 +155,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
+                    <td>Maulik-Shen's proof I (vanishing cycles)<br>
                     </td>
                     <td style="text-align: center;"><br>
                     </td>
@@ -161,8 +164,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Apr 11</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
-                    </td>
+                    <td>Maulik-Shen's proof II (strong perversity and twisted
+                      Higgs bundles)</td>
                     <td style="text-align: center;"><br>
                     </td>
                   </tr>
@@ -170,8 +173,8 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Apr 18</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
-                    </td>
+                    <td>Maulik-Shen's proof III (global Springer theory and the
+                      parabolic support theorem)</td>
                     <td style="text-align: center;"><br>
                     </td>
                   </tr>
@@ -179,8 +182,7 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">Apr 25</td>
                     <td style="text-align: center;"><br>
                     </td>
-                    <td><br>
-                    </td>
+                    <td>Maulik-Shen-Yin's proof I</td>
                     <td><br>
                     </td>
                   </tr>
@@ -188,8 +190,15 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                     <td style="text-align: center;">May 2</td>
                     <td style="text-align: center;"><br>
                     </td>
+                    <td>Maulik-Shen-Yin's proof II</td>
                     <td><br>
                     </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">May 9</td>
+                    <td style="text-align: center;"><br>
+                    </td>
+                    <td>Maulik-Shen-Yin's proof III</td>
                     <td><br>
                     </td>
                   </tr>
