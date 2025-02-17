@@ -91,23 +91,16 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
           </div>
         </div>
       </section>
-      <section class="section" data-section="section-announcement">
-        <div class="container">
-          <div class="section-heading">
-            <h2>Workshop</h2>
-          </div>
-          <div class="row">
-            <div class="col">
-              <p> There's a workshop on <a href="https://sites.google.com/view/derivedfrg/events/columbia-2025"
-                  target="_blank">hyper-Kähler varieties, derived categories,
-                  and moduli spaces</a> at Columbia University on Feb 7-9, 2025.
-                If you're interested, please consider registering the workshop!</p>
-              <p>The registration is necessary to get campus access.</p>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="section" data-section="section-cv">
+      <!--    <section class="section" data-section="section-announcement">
+        <div class="container">          <div class="section-heading">
+            <h2>Workshop</h2>          </div>
+          <div class="row">            <div class="col">
+              <p> There's a workshop on <a href="https://sites.google.com/view/derivedfrg/events/columbia-2025"
+                  target="_blank">hyper-Kähler varieties, derived categories,                  and moduli spaces</a> at Columbia University on Feb 7-9, 2025.
+                If you're interested, please consider registering the workshop!</p>              <p>The registration is necessary to get campus access.</p>
+            </div>          </div>
+        </div>      </section>
+--> <section class="section" data-section="section-cv">
         <div class="container">
           <div class="section-heading">
             <h2>CV</h2>
@@ -185,6 +178,10 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li>Johns Hopkins University, March 2024.</li>
                 <li>KIAS (South Korea), June 2024.</li>
                 <li>Fordham University, September 2024.</li>
+                <li>Harvard-MIT, February 2025.</li>
+                <li>Sheffield, February 2025.</li>
+                <li>University of Pennsylvania, February 2025.</li>
+                <li>IBS CCG (South Korea), March 2025.</li>
               </ul>
             </div>
           </div>
@@ -201,9 +198,9 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li>Spring 2024. <a href="seminars/spring2024.html" target="_top">AG
                     learning seminar: Decomposition of the diagonal</a>.</li>
                 <li>Fall 2024. <a href="https://www.math.columbia.edu/department/agseminar/fall2024.html"
-                    target="_blank">Columbia Algebraic geometry seminar</a>.</li>
+                    target="_blank">Columbia AG seminar</a>.</li>
                 <li>Spring 2025. <a href="https://www.math.columbia.edu/department/agseminar/spring2025.html"
-                    target="_blank">Columbia Algebraic geometry seminar</a>.</li>
+                    target="_blank">Columbia AG seminar</a>.</li>
                 <li>Spring 2025. <a href="seminars/spring2025.html">AG learning
                     seminar: P = W conjecture</a>.</li>
               </ul>
