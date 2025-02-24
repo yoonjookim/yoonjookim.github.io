@@ -92,14 +92,10 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
         </div>
       </section>
       <!--    <section class="section" data-section="section-announcement">
-        <div class="container">          <div class="section-heading">
-            <h2>Workshop</h2>          </div>
-          <div class="row">            <div class="col">
-              <p> There's a workshop on <a href="https://sites.google.com/view/derivedfrg/events/columbia-2025"
-                  target="_blank">hyper-Kähler varieties, derived categories,                  and moduli spaces</a> at Columbia University on Feb 7-9, 2025.
-                If you're interested, please consider registering the workshop!</p>              <p>The registration is necessary to get campus access.</p>
-            </div>          </div>
-        </div>      </section>
+        <div class="container">          <div class="section-heading">            <h2>Workshop</h2>          </div>
+          <div class="row">            <div class="col">              <p> There's a workshop on <a href="https://sites.google.com/view/derivedfrg/events/columbia-2025"
+                  target="_blank">hyper-Kähler varieties, derived categories,                  and moduli spaces</a> at Columbia University on Feb 7-9, 2025.                If you're interested, please consider registering the workshop!</p>              <p>The registration is necessary to get campus access.</p>
+            </div>          </div>        </div>      </section>
 --> <section class="section" data-section="section-cv">
         <div class="container">
           <div class="section-heading">
@@ -152,9 +148,9 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li>AMS Fall 2020 Southeast meeting, October 2020.</li>
                 <li>Stony Brook University, November 2020.</li>
                 <li>University of Connecticut, February 2021.</li>
-                <li>KIAS (South Korea), February 2021.</li>
+                <li>KIAS, Korea, February 2021.</li>
                 <li>Michigan State University, September 2021.</li>
-                <li>IBS CCG (South Korea), September 2021.</li>
+                <li>IBS CCG, Korea, September 2021.</li>
                 <li>UC Santa Barbara, October 2021.</li>
                 <li>University of Massachusetts Amherst, October 2021.</li>
                 <li>Institut de Mathématiques de Jussieu, October 2021.<br>
@@ -166,22 +162,23 @@ Tooplate 2116 Blugoonhttps://www.tooplate.com/view/2116-blugoon--> <body>
                 <li>Seoul National University, August 2022.</li>
                 <li>Universität Bonn, October 2022.</li>
                 <li>IST Austria, November 2022.</li>
-                <li>IBS CCG (South Korea), February 2023.</li>
-                <li>KIAS (South Korea), February 2023.</li>
+                <li>IBS CCG, Korea, February 2023.</li>
+                <li>KIAS, Korea, February 2023.</li>
                 <li>KdV University of Amsterdam, March 2023.</li>
                 <li>University of Lille, March 2023.</li>
                 <li>Western Hemisphere Virtual Symplectic Seminar, April 2023.</li>
                 <li>Columbia University, September 2023.</li>
                 <li>Stony Brook University, September 2023.</li>
-                <li>IBS CCG (South Korea), February 2024.</li>
+                <li>IBS CCG, Korea, February 2024.</li>
                 <li>Princeton University, March 2024.</li>
                 <li>Johns Hopkins University, March 2024.</li>
-                <li>KIAS (South Korea), June 2024.</li>
+                <li>KIAS, Korea, June 2024.</li>
                 <li>Fordham University, September 2024.</li>
                 <li>Harvard-MIT, February 2025.</li>
-                <li>Sheffield, February 2025.</li>
+                <li>University of Sheffield, February 2025.</li>
                 <li>University of Pennsylvania, February 2025.</li>
-                <li>IBS CCG (South Korea), March 2025.</li>
+                <li>IBS CCG, Korea, March 2025.</li>
+                <li>Yonsei University (South Korea), March 2025.</li>
               </ul>
             </div>
           </div>
