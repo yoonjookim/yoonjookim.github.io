@@ -58,7 +58,8 @@
               </div>
               <div class="col-md-4">
                 <div class="section-heading">
-                  <p style="text-align: center;"><br></p>
+                  <p style="text-align: center;"> <br>
+                  </p>
                   <h2>Yoon-Joo Kim</h2>
                   <p></p>
                   <p style="text-align: center;">Ritt assistant professor (postdoc)<br>
@@ -80,12 +81,13 @@
               <p>I am a Ritt assistant professor (postdoc) at Columbia
                 University, and also a June Huh visiting fellow at the Center for Mathematical Challenges in KIAS.
                 My field of interest is algebraic geometry.</p>
-              <p>I often write my name as Yoonjoo Kim without a dash.</p>
-              <p>From Fall 2022 to Spring 2023, I was a postdoc at Universität Bonn in
-                <a href="http://www.math.uni-bonn.de/%7Ehuybrech/" target="_blank">Daniel Huybrechts</a>' group
-                (ERC HyperK team).</p>
-              <p>Before that, I was a PhD student at Stony Brook University. My advisor was
-                <a href="http://www.math.stonybrook.edu/%7Erlaza/" target="_blank">Radu Laza</a>.</p>
+              <p> I often write my name as Yoonjoo Kim without a dash.</p>
+              <p>From Fall 2022 to Spring 2023, I was a postdoc at Universität
+                Bonn in <a href="http://www.math.uni-bonn.de/%7Ehuybrech/" target="_blank">Daniel
+                  Huybrechts</a>' group (ERC HyperK team).</p>
+              <p>Before that, I was a PhD student at Stony Brook University. My
+                advisor was <a href="http://www.math.stonybrook.edu/%7Erlaza/"
+                  target="_blank">Radu Laza</a>.</p>
               <p>Email: yk3029 [AT] columbia [DOT] edu.</p>
             </div>
           </div>
@@ -261,73 +263,60 @@
   
     <!-- Scripts -->
     <!-- Bootstrap core JavaScript -->
-    <!--<script type="text/javascript" src="vendor/jquery/jquery-3.7.1.min.js"></script>-->
+    <script type="text/javascript" src="vendor/jquery/jquery-3.7.1.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/js/isotope.min.js"></script>
     <script src="assets/js/owl-carousel.js"></script>
     <script src="assets/js/lightbox.js"></script>
     <script src="assets/js/custom.js"></script>
     <script>
-      // 1. Add 'active' class to first <li> in main-menu
-      document.querySelector(".main-menu li")?.classList.add("active");
+      //according to loftblog tut
+      $(".main-menu li:first").addClass("active");
 
-      // 2. Show section (scroll to it)
-      function showSection(section, isAnimate) {
-        const direction = section.replace(/#/, "");
-        const reqSection = document.querySelector(
-          '.section[data-section="' + direction + '"]'
-        );
-
-        if (!reqSection) return;
-
-        const reqSectionPos = reqSection.offsetTop;
+      var showSection = function showSection(section, isAnimate) {
+        var direction = section.replace(/#/, ""),
+          reqSection = $(".section").filter(
+            '[data-section="' + direction + '"]'
+          ),
+          reqSectionPos = reqSection.offset().top - 0;
 
         if (isAnimate) {
-          window.scrollTo({
-            top: reqSectionPos,
-            behavior: "smooth",
-          });
+          $("body, html").animate(
+            {
+              scrollTop: reqSectionPos
+            },
+            800
+          );
         } else {
-          window.scrollTo(0, reqSectionPos);
+          $("body, html").scrollTop(reqSectionPos);
         }
-      }
+      };
 
-      // 3. Check current section in view and highlight menu
-      function checkSection() {
-        const sections = document.querySelectorAll(".section");
-        const scrollPosition = window.scrollY;
-
-        sections.forEach(function (section) {
-          const topEdge = section.offsetTop - 80;
-          const bottomEdge = topEdge + section.offsetHeight;
-
-          if (scrollPosition >= topEdge && scrollPosition < bottomEdge) {
-            const currentId = section.getAttribute("data-section");
-            const reqLink = document.querySelector(
-              'a[href="#' + currentId + '"]'
-            );
-
-            if (reqLink) {
-              const allItems = document.querySelectorAll(".main-menu li");
-              allItems.forEach((li) => li.classList.remove("active"));
-              const parentLi = reqLink.closest("li");
-              if (parentLi) parentLi.classList.add("active");
-            }
+      var checkSection = function checkSection() {
+        $(".section").each(function() {
+          var $this = $(this),
+            topEdge = $this.offset().top - 80,
+            bottomEdge = topEdge + $this.height(),
+            wScroll = $(window).scrollTop();
+          if (topEdge < wScroll && bottomEdge > wScroll) {
+            var currentId = $this.data("section"),
+              reqLink = $("a").filter("[href*=\\#" + currentId + "]");
+            reqLink
+              .closest("li")
+              .addClass("active")
+              .siblings()
+              .removeClass("active");
           }
         });
-      }
+      };
 
-      // 4. Attach click event to menu links
-      document.querySelector(".main-menu")?.addEventListener("click", function (e) {
-          const target = e.target.closest("a");
-          if (target && target.getAttribute("href").startsWith("#")) {
-            e.preventDefault();
-            showSection(target.getAttribute("href"), true);
-          }
-        });
+      $(".main-menu").on("click", "a", function(e) {
+        e.preventDefault();
+        showSection($(this).attr("href"), true);
+      });
 
-      // 5. Check section on scroll
-      window.addEventListener("scroll", checkSection);
-    </script>
+      $(window).scroll(function() {
+        checkSection();
+      });</script>
   </body>
 </html>
